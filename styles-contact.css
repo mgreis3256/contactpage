@@ -60,7 +60,7 @@ html, body {
   width: 100%;
   padding: 0;
   margin: 0;
-  background-image: url(“Oceanimage.png”);
+  background-image: url("Oceanimage.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -86,11 +86,10 @@ html, body {
 }
 
    
-#logo {
-    width: 30%; 
-	margin-top: 50%;
-	margin-bottom: 16px;
+#logo { 
 	text-align: center;
+	margin: auto;
+	display: block;
 }
 
 h1 {
